@@ -41,5 +41,4 @@ The system searches YouTube, downloads the requested number of audio files, trim
 
 ---
 
-## Project Structure
 
